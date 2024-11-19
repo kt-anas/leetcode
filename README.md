@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kt-anas/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2756-buy-two-chocolates](https://github.com/kt-anas/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/kt-anas/leetcode/tree/master/2756-buy-two-chocolates) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kt-anas/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
