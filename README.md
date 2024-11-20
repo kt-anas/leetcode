@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kt-anas/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/kt-anas/leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
