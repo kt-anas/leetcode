@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kt-anas/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/kt-anas/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/kt-anas/leetcode/tree/master/0520-detect-capital) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
