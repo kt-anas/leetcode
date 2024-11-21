@@ -22,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kt-anas/leetcode/tree/master/0014-longest-common-prefix) |
 | [0520-detect-capital](https://github.com/kt-anas/leetcode/tree/master/0520-detect-capital) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kt-anas/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
