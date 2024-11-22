@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kt-anas/leetcode/tree/master/0066-plus-one) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kt-anas/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kt-anas/leetcode/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kt-anas/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/kt-anas/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
