@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kt-anas/leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/kt-anas/leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/kt-anas/leetcode/tree/master/0520-detect-capital) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kt-anas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kt-anas/leetcode/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kt-anas/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
