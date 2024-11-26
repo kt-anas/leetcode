@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kt-anas/leetcode/tree/master/0066-plus-one) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kt-anas/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kt-anas/leetcode/tree/master/0792-binary-search) |
+| [1217-relative-sort-array](https://github.com/kt-anas/leetcode/tree/master/1217-relative-sort-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kt-anas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/kt-anas/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1217-relative-sort-array](https://github.com/kt-anas/leetcode/tree/master/1217-relative-sort-array) |
 | [2756-buy-two-chocolates](https://github.com/kt-anas/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kt-anas/leetcode/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/kt-anas/leetcode/tree/master/1217-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/kt-anas/leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
