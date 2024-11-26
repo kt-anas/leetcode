@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kt-anas/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kt-anas/leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/kt-anas/leetcode/tree/master/0520-detect-capital) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kt-anas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kt-anas/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/kt-anas/leetcode/tree/master/1217-relative-sort-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
