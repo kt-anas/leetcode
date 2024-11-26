@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kt-anas/leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/kt-anas/leetcode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/kt-anas/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kt-anas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
