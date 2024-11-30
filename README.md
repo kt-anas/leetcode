@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/kt-anas/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
+| [0326-power-of-three](https://github.com/kt-anas/leetcode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kt-anas/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
