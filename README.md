@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kt-anas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/kt-anas/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3311-ant-on-the-boundary](https://github.com/kt-anas/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kt-anas/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kt-anas/leetcode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/kt-anas/leetcode/tree/master/2058-concatenation-of-array) |
+| [3311-ant-on-the-boundary](https://github.com/kt-anas/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Trie
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kt-anas/leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/kt-anas/leetcode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
